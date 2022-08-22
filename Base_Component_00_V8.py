@@ -47,7 +47,6 @@ def display_results(correct_guesses, guesses):
     print("-------------------------")
     print("RESULTS FROM YOUR QUIZ :)")
     print("-------------------------")
-    print("Answers: ", end="")
 
     print("You scored "+str(correct_guesses)+"/6")
 
